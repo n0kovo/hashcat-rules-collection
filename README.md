@@ -8,3 +8,5 @@ Thanks to the authors/researchers, to the [HashMob](https://hashmob.net/) commun
 
 Rules comparison sheet (by Shooter3k):<br>
 [Wordlist tests - Google Sheets](https://docs.google.com/spreadsheets/d/1qQNwggWIWtL-m0EYrRg_vdwHOrZCY-SnWcYTwQN0fMk/edit#gid=1952927995)
+
+(If I have included your rules and you would like to be credited, hmu on @narkopolo:matrix.org)
