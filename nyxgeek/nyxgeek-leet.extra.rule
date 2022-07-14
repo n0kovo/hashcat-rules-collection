@@ -1,0 +1,105 @@
+## modified from hashcat/rules/leetspeak.rule
+## 2021.02.05 - @nyxgeek - TrustedSec
+## the original ruleset did not support upper case and lacked many transformations
+## tip: try chaining this multiple times + best64 or whatnot
+
+## rule: leetspeak single
+
+sA4
+sa4
+sA@
+sa@
+sB8
+sb8
+sB6
+sb6
+sC(
+sc(
+sC<
+sc<
+sC{
+sc{
+sE3
+se3
+sG9
+sg9
+sH#
+sh#
+sI1
+si1
+sI|
+si|
+sI!
+sK<
+sk<
+si!
+sL!
+sl!
+sL1
+sl1
+sO0
+so0
+sq9
+sS5
+ss5
+sS$
+ss$
+sT7
+st7
+sT+
+st+
+sX%
+sx%
+sZ2
+sz2
+s0O
+s0o
+
+
+sa@ sA@ se3 sE3
+sa@ sA@ si1 sI1
+sa@ sA@ si! sI!
+sa@ sA@ so0 sO0
+sa@ sA@ so0 sO0 si1 sI1
+sa@ sA@ so0 sO0 si1 sI1 se3 sE3
+sa@ sA@ so0 sO0 si! sI!
+sa@ sA@ so0 sO0 si! sI! se3 sE3
+sa@ sA@ sS$ ss$ so0 sO0
+sa@ sA@ sS$ ss$ so0 sO0 si1 sI1
+sa@ sA@ sS$ ss$ so0 sO0 si1 sI1 se3 sE3
+sa@ sA@ sS$ ss$ so0 sO0 si! sI!
+sa@ sA@ sS$ ss$ so0 sO0 si! sI! se3 sE3
+sS$ ss$ sa@ sA@
+sS$ ss$ se3 sE3
+sS$ ss$ si1 sI1
+sS$ ss$ si! sI!
+sS$ ss$ so0 sO0
+sS$ ss$ so0 sO0 se3 sE3
+sS$ ss$ so0 sO0 si1 sI1
+sS$ ss$ so0 sO0 si1 sI1 se3 sE3
+sS$ ss$ so0 sO0 si! sI!
+sS$ ss$ so0 sO0 si! sI! se3 sE3
+
+sa@ sA@ se3 sE3 sl1 sL1
+sa@ sA@ si1 sI1 sl1 sL1
+sa@ sA@ si! sI! sl1 sL1
+sa@ sA@ so0 sO0 sl1 sL1
+sa@ sA@ so0 sO0 si1 sI1 sl1 sL1
+sa@ sA@ so0 sO0 si1 sI1 se3 sE3 sl1 sL1
+sa@ sA@ so0 sO0 si! sI! sl1 sL1
+sa@ sA@ so0 sO0 si! sI! se3 sE3 sl1 sL1
+sa@ sA@ sS$ ss$ so0 sO0 sl1 sL1
+sa@ sA@ sS$ ss$ so0 sO0 si1 sI1 sl1 sL1
+sa@ sA@ sS$ ss$ so0 sO0 si1 sI1 se3 sE3 sl1 sL1
+sa@ sA@ sS$ ss$ so0 sO0 si! sI! sl1 sL1
+sa@ sA@ sS$ ss$ so0 sO0 si! sI! se3 sE3 sl1 sL1
+sS$ ss$ sa@ sA@ sl1 sL1
+sS$ ss$ se3 sE3 sl1 sL1
+sS$ ss$ si1 sI1 sl1 sL1
+sS$ ss$ si! sI! sl1 sL1
+sS$ ss$ so0 sO0 sl1 sL1
+sS$ ss$ so0 sO0 se3 sE3 sl1 sL1
+sS$ ss$ so0 sO0 si1 sI1 sl1 sL1
+sS$ ss$ so0 sO0 si1 sI1 se3 sE3 sl1 sL1
+sS$ ss$ so0 sO0 si! sI! sl1 sL1
+sS$ ss$ so0 sO0 si! sI! se3 sE3 sl1 sL1

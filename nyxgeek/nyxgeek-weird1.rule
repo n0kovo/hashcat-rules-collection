@@ -1,0 +1,368 @@
+i2a i4a
+i2a i4a i6a
+i2a i4a i6a i8a
+i2a i4a i6a i8a i10a
+i2b i4b
+i2b i4b i6b
+i2b i4b i6b i8b
+i2b i4b i6b i8b i10b
+i2c i4c
+i2c i4c i6c
+i2c i4c i6c i8c
+i2c i4c i6c i8c i10c
+i2d i4d
+i2d i4d i6d
+i2d i4d i6d i8d
+i2d i4d i6d i8d i10d
+i2e i4e
+i2e i4e i6e
+i2e i4e i6e i8e
+i2e i4e i6e i8e i10e
+i2f i4f
+i2f i4f i6f
+i2f i4f i6f i8f
+i2f i4f i6f i8f i10f
+i2g i4g
+i2g i4g i6g
+i2g i4g i6g i8g
+i2g i4g i6g i8g i10g
+i2h i4h
+i2h i4h i6h
+i2h i4h i6h i8h
+i2h i4h i6h i8h i10h
+i2i i4i
+i2i i4i i6i
+i2i i4i i6i i8i
+i2i i4i i6i i8i i10i
+i2j i4j
+i2j i4j i6j
+i2j i4j i6j i8j
+i2j i4j i6j i8j i10j
+i2k i4k
+i2k i4k i6k
+i2k i4k i6k i8k
+i2k i4k i6k i8k i10k
+i2l i4l
+i2l i4l i6l
+i2l i4l i6l i8l
+i2l i4l i6l i8l i10l
+i2m i4m
+i2m i4m i6m
+i2m i4m i6m i8m
+i2m i4m i6m i8m i10m
+i2n i4n
+i2n i4n i6n
+i2n i4n i6n i8n
+i2n i4n i6n i8n i10n
+i2o i4o
+i2o i4o i6o
+i2o i4o i6o i8o
+i2o i4o i6o i8o i10o
+i2p i4p
+i2p i4p i6p
+i2p i4p i6p i8p
+i2p i4p i6p i8p i10p
+i2q i4q
+i2q i4q i6q
+i2q i4q i6q i8q
+i2q i4q i6q i8q i10q
+i2r i4r
+i2r i4r i6r
+i2r i4r i6r i8r
+i2r i4r i6r i8r i10r
+i2s i4s
+i2s i4s i6s
+i2s i4s i6s i8s
+i2s i4s i6s i8s i10s
+i2t i4t
+i2t i4t i6t
+i2t i4t i6t i8t
+i2t i4t i6t i8t i10t
+i2u i4u
+i2u i4u i6u
+i2u i4u i6u i8u
+i2u i4u i6u i8u i10u
+i2v i4v
+i2v i4v i6v
+i2v i4v i6v i8v
+i2v i4v i6v i8v i10v
+i2w i4w
+i2w i4w i6w
+i2w i4w i6w i8w
+i2w i4w i6w i8w i10w
+i2x i4x
+i2x i4x i6x
+i2x i4x i6x i8x
+i2x i4x i6x i8x i10x
+i2y i4y
+i2y i4y i6y
+i2y i4y i6y i8y
+i2y i4y i6y i8y i10y
+i2z i4z
+i2z i4z i6z
+i2z i4z i6z i8z
+i2z i4z i6z i8z i10z
+i2! i4!
+i2! i4! i6!
+i2! i4! i6! i8!
+i2! i4! i6! i8! i10!
+i2  i4 
+i2  i4  i6 
+i2  i4  i6  i8 
+i2  i4  i6  i8  i10 
+i2@ i4@
+i2@ i4@ i6@
+i2@ i4@ i6@ i8@
+i2@ i4@ i6@ i8@ i10@
+i2# i4#
+i2# i4# i6#
+i2# i4# i6# i8#
+i2# i4# i6# i8# i10#
+i2$ i4$
+i2$ i4$ i6$
+i2$ i4$ i6$ i8$
+i2$ i4$ i6$ i8$ i10$
+i2% i4%
+i2% i4% i6%
+i2% i4% i6% i8%
+i2% i4% i6% i8% i10%
+i2^ i4^
+i2^ i4^ i6^
+i2^ i4^ i6^ i8^
+i2^ i4^ i6^ i8^ i10^
+i2& i4&
+i2& i4& i6&
+i2& i4& i6& i8&
+i2& i4& i6& i8& i10&
+i2< i4<
+i2< i4< i6<
+i2< i4< i6< i8<
+i2< i4< i6< i8< i10<
+i2> i4>
+i2> i4> i6>
+i2> i4> i6> i8>
+i2> i4> i6> i8> i10>
+i2( i4(
+i2( i4( i6(
+i2( i4( i6( i8(
+i2( i4( i6( i8( i10(
+i2` i4`
+i2` i4` i6`
+i2` i4` i6` i8`
+i2` i4` i6` i8` i10`
+i2~ i4~
+i2~ i4~ i6~
+i2~ i4~ i6~ i8~
+i2~ i4~ i6~ i8~ i10~
+i2) i4)
+i2) i4) i6)
+i2) i4) i6) i8)
+i2) i4) i6) i8) i10)
+i2[ i4[
+i2[ i4[ i6[
+i2[ i4[ i6[ i8[
+i2[ i4[ i6[ i8[ i10[
+i2] i4]
+i2] i4] i6]
+i2] i4] i6] i8]
+i2] i4] i6] i8] i10]
+i2{ i4{
+i2{ i4{ i6{
+i2{ i4{ i6{ i8{
+i2{ i4{ i6{ i8{ i10{
+i2} i4}
+i2} i4} i6}
+i2} i4} i6} i8}
+i2} i4} i6} i8} i10}
+i2- i4-
+i2- i4- i6-
+i2- i4- i6- i8-
+i2- i4- i6- i8- i10-
+i2? i4?
+i2? i4? i6?
+i2? i4? i6? i8?
+i2? i4? i6? i8? i10?
+i2/ i4/
+i2/ i4/ i6/
+i2/ i4/ i6/ i8/
+i2/ i4/ i6/ i8/ i10/
+i2\ i4\
+i2\ i4\ i6\
+i2\ i4\ i6\ i8\
+i2\ i4\ i6\ i8\ i10\
+i2| i4|
+i2| i4| i6|
+i2| i4| i6| i8|
+i2| i4| i6| i8| i10|
+i2_ i4_
+i2_ i4_ i6_
+i2_ i4_ i6_ i8_
+i2_ i4_ i6_ i8_ i10_
+i2+ i4+
+i2+ i4+ i6+
+i2+ i4+ i6+ i8+
+i2+ i4+ i6+ i8+ i10+
+i2= i4=
+i2= i4= i6=
+i2= i4= i6= i8=
+i2= i4= i6= i8= i10=
+i2, i4,
+i2, i4, i6,
+i2, i4, i6, i8,
+i2, i4, i6, i8, i10,
+i2. i4.
+i2. i4. i6.
+i2. i4. i6. i8.
+i2. i4. i6. i8. i10.
+i2: i4:
+i2: i4: i6:
+i2: i4: i6: i8:
+i2: i4: i6: i8: i10:
+i2; i4;
+i2; i4; i6;
+i2; i4; i6; i8;
+i2; i4; i6; i8; i10;
+i20 i40
+i20 i40 i60
+i20 i40 i60 i80
+i20 i40 i60 i80 i100
+i21 i41
+i21 i41 i61
+i21 i41 i61 i81
+i21 i41 i61 i81 i101
+i22 i42
+i22 i42 i62
+i22 i42 i62 i82
+i22 i42 i62 i82 i102
+i23 i43
+i23 i43 i63
+i23 i43 i63 i83
+i23 i43 i63 i83 i103
+i24 i44
+i24 i44 i64
+i24 i44 i64 i84
+i24 i44 i64 i84 i104
+i25 i45
+i25 i45 i65
+i25 i45 i65 i85
+i25 i45 i65 i85 i105
+i26 i46
+i26 i46 i66
+i26 i46 i66 i86
+i26 i46 i66 i86 i106
+i27 i47
+i27 i47 i67
+i27 i47 i67 i87
+i27 i47 i67 i87 i107
+i28 i48
+i28 i48 i68
+i28 i48 i68 i88
+i28 i48 i68 i88 i108
+i29 i49
+i29 i49 i69
+i29 i49 i69 i89
+i29 i49 i69 i89 i109
+i2A i4A
+i2A i4A i6A
+i2A i4A i6A i8A
+i2A i4A i6A i8A i10A
+i2B i4B
+i2B i4B i6B
+i2B i4B i6B i8B
+i2B i4B i6B i8B i10B
+i2C i4C
+i2C i4C i6C
+i2C i4C i6C i8C
+i2C i4C i6C i8C i10C
+i2D i4D
+i2D i4D i6D
+i2D i4D i6D i8D
+i2D i4D i6D i8D i10D
+i2E i4E
+i2E i4E i6E
+i2E i4E i6E i8E
+i2E i4E i6E i8E i10E
+i2F i4F
+i2F i4F i6F
+i2F i4F i6F i8F
+i2F i4F i6F i8F i10F
+i2G i4G
+i2G i4G i6G
+i2G i4G i6G i8G
+i2G i4G i6G i8G i10G
+i2H i4H
+i2H i4H i6H
+i2H i4H i6H i8H
+i2H i4H i6H i8H i10H
+i2I i4I
+i2I i4I i6I
+i2I i4I i6I i8I
+i2I i4I i6I i8I i10I
+i2J i4J
+i2J i4J i6J
+i2J i4J i6J i8J
+i2J i4J i6J i8J i10J
+i2K i4K
+i2K i4K i6K
+i2K i4K i6K i8K
+i2K i4K i6K i8K i10K
+i2L i4L
+i2L i4L i6L
+i2L i4L i6L i8L
+i2L i4L i6L i8L i10L
+i2M i4M
+i2M i4M i6M
+i2M i4M i6M i8M
+i2M i4M i6M i8M i10M
+i2N i4N
+i2N i4N i6N
+i2N i4N i6N i8N
+i2N i4N i6N i8N i10N
+i2O i4O
+i2O i4O i6O
+i2O i4O i6O i8O
+i2O i4O i6O i8O i10O
+i2P i4P
+i2P i4P i6P
+i2P i4P i6P i8P
+i2P i4P i6P i8P i10P
+i2Q i4Q
+i2Q i4Q i6Q
+i2Q i4Q i6Q i8Q
+i2Q i4Q i6Q i8Q i10Q
+i2R i4R
+i2R i4R i6R
+i2R i4R i6R i8R
+i2R i4R i6R i8R i10R
+i2S i4S
+i2S i4S i6S
+i2S i4S i6S i8S
+i2S i4S i6S i8S i10S
+i2T i4T
+i2T i4T i6T
+i2T i4T i6T i8T
+i2T i4T i6T i8T i10T
+i2U i4U
+i2U i4U i6U
+i2U i4U i6U i8U
+i2U i4U i6U i8U i10U
+i2V i4V
+i2V i4V i6V
+i2V i4V i6V i8V
+i2V i4V i6V i8V i10V
+i2W i4W
+i2W i4W i6W
+i2W i4W i6W i8W
+i2W i4W i6W i8W i10W
+i2X i4X
+i2X i4X i6X
+i2X i4X i6X i8X
+i2X i4X i6X i8X i10X
+i2Y i4Y
+i2Y i4Y i6Y
+i2Y i4Y i6Y i8Y
+i2Y i4Y i6Y i8Y i10Y
+i2Z i4Z
+i2Z i4Z i6Z
+i2Z i4Z i6Z i8Z
+i2Z i4Z i6Z i8Z i10Z
