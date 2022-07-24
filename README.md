@@ -4,9 +4,9 @@ A collection of hashcat rule-files (mainly so I can download them all at once on
 
 ### Current count: 301
 
-Thanks to the authors/researchers, to the [HashMob](https://hashmob.net/) community and specifically Shooter3k for compiling a bunch of these!
+Thanks to the authors/researchers, to the [HashMob](https://hashmob.net/) community and specifically PenguinKeeper for compiling a bunch of these!
 
-Rules comparison sheet (by Shooter3k):<br>
+Rules comparison sheet (by PenguinKeeper):<br>
 [Wordlist tests - Google Sheets](https://docs.google.com/spreadsheets/d/1qQNwggWIWtL-m0EYrRg_vdwHOrZCY-SnWcYTwQN0fMk/edit#gid=1952927995)
 
 (If I have included your rules and you would like to be credited, hmu on @narkopolo:matrix.org)
