@@ -3,7 +3,7 @@
 A collection of hashcat rule-files (mainly so I can download them all at once on an EC2 instance)<br>
 Follow me on Mastodon: [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo)
 
-### Current count: 301
+### Current count: 317 .rule files
 
 Thanks to the authors/researchers, to the [HashMob](https://hashmob.net/) community and specifically PenguinKeeper for compiling a bunch of these!
 
